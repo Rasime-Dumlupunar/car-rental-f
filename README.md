@@ -41,4 +41,6 @@ This project offers a car rental platform where users can list cars, view their 
 - **Mongoose**: Used for interacting with MongoDB.
 - **Tailwind CSS**: A fast and customizable CSS framework used for responsive design and styling.
 - **TypeScript**: Used for static type checking and improving code quality.
-# car-rental-f
+
+
+![](https://github.com/Rasime-Dumlupunar/car-rental-f/blob/main/car-rental.gif)
