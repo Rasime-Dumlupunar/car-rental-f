@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Araba Kiralama Projesi
 
-## Getting Started
+Bu proje, kullanıcıların arabaları listeleyebileceği, detaylarını görüntüleyebileceği ve ödeme yaparak kiralayabileceği bir araba kiralama platformu sunmaktadır. Proje, Next.js, React, React-DOM, Stripe, Mongoose, Tailwind CSS ve TypeScript kullanılarak geliştirilmiştir. Ayrıca, responsive tasarımı sayesinde farklı cihazlarda sorunsuz bir kullanıcı deneyimi sunar.
 
-First, run the development server:
+## Özellikler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Arabaların Listelenmesi**: Kullanıcılar, sistemdeki mevcut arabaların listesini görebilir.
+- **Araba Detayları**: Kullanıcılar, seçtikleri arabaların detaylı bilgilerini görüntüleyebilir.
+- **Araba Kiralama**: Kullanıcılar, arabayı kiralayabilir ve ödeme işlemi gerçekleştirebilir.
+- **Siparişlerim Sayfası**: Kullanıcılar, geçmişteki kiralamalarını ve mevcut siparişlerini görüntüleyebilir.
+- **Responsive Tasarım**: Proje, farklı cihazlarda uyumlu ve duyarlı bir tasarıma sahiptir.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Teknolojiler
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: React tabanlı bir framework, sunucu tarafı render işlemleri ve hızlı sayfa geçişleri için kullanılmıştır.
+- **React**: Kullanıcı arayüzü bileşenlerinin oluşturulması için kullanılmıştır.
+- **React-DOM**: React bileşenlerinin DOM ile etkileşimini sağlar.
+- **Stripe**: Ödeme işlemleri için Stripe API'si kullanılmıştır.
+- **Mongoose**: MongoDB ile etkileşim sağlamak için kullanılmıştır.
+- **Tailwind CSS**: Hızlı ve özelleştirilebilir bir CSS framework'ü, responsive tasarım ve stil uygulamaları için kullanılmıştır.
+- **TypeScript**: Statik tür denetimi sağlamak için TypeScript kullanılmıştır.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Car Rental Project
 
-## Learn More
+This project offers a car rental platform where users can list cars, view their details, rent them, and make payments to complete the rental process. The project is developed using Next.js, React, React-DOM, Stripe, Mongoose, Tailwind CSS, and TypeScript. Additionally, the responsive design ensures a seamless user experience across various devices.
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Car Listing**: Users can view a list of available cars in the system.
+- **Car Details**: Users can view detailed information about the selected cars.
+- **Car Rental**: Users can rent a car and complete the payment process.
+- **My Orders Page**: Users can view their past rentals and current orders.
+- **Responsive Design**: The project features a responsive design that adapts to various devices.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Technologies
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js**: A React-based framework used for server-side rendering and fast page transitions.
+- **React**: Used to build user interface components.
+- **React-DOM**: Manages the interaction between React components and the DOM.
+- **Stripe**: Stripe API is used for handling payment transactions.
+- **Mongoose**: Used for interacting with MongoDB.
+- **Tailwind CSS**: A fast and customizable CSS framework used for responsive design and styling.
+- **TypeScript**: Used for static type checking and improving code quality.
+# car-rental-f
