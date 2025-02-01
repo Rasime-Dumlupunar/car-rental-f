@@ -18,7 +18,7 @@ Bu proje, kullanıcıların arabaları listeleyebileceği, detaylarını görün
 - **Stripe**: Ödeme işlemleri için Stripe API'si kullanılmıştır.
 - **Mongoose**: MongoDB ile etkileşim sağlamak için kullanılmıştır.
 - **Tailwind CSS**: Hızlı ve özelleştirilebilir bir CSS framework'ü, responsive tasarım ve stil uygulamaları için kullanılmıştır.
-- **TypeScript**: Statik tür denetimi sağlamak için TypeScript kullanılmıştır.
+- **TypeScript**: Statik tür denetimi sağlamak için TypeScript kullanılmıştır. 
 
 # Car Rental Project
 
